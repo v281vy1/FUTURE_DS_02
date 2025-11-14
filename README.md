@@ -43,22 +43,19 @@ The final output is a **Power BI dashboard** that highlights campaign performanc
 ---
 
 ## 📂 Repository Structure
+
 FUTURE_DS_02/
 │
 ├── README.md
-│
 ├── dataset/
 │ └── cleaned_facebook_ads.csv
-│
 ├── reports/
 │ ├── Task2_Report.pdf
 │ └── Dashboard_Snapshot.png
-│
 ├── analysis/
 │ ├── data_cleaning_steps.md
 │ ├── dax_measures.md
 │ └── insights_summary.md
-│
 └── assets/
 └── task_banner.png
 
@@ -99,6 +96,7 @@ Full steps are available in:
 
 ## 📊 DAX Measures Used
 Key measures created inside Power BI:
+
 Total Impressions = SUM('cleaned-data-facebook'[impressions])
 Total Clicks = SUM('cleaned-data-facebook'[clicks])
 Total Spend = SUM('cleaned-data-facebook'[spent])
