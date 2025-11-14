@@ -1,7 +1,6 @@
 # Social Media Campaign Performance Tracker
 
-This project is part of **Task 2** in the *Future DS Program*.  
-The objective is to analyze Facebook/Instagram ad campaign performance using data analytics and create an interactive dashboard using **Power BI**.
+“Task 2 – Social Media Campaign Performance Tracker | Future Interns Data Science & Analytics Program”
 
 ---
 
@@ -49,11 +48,11 @@ FUTURE_DS_02/
 ├── README.md
 │
 ├── dataset/
+│   └── data.csv
 │   └── cleaned_facebook_ads.csv
 │
-├── reports/
-│   ├── Task2_Report.pdf
-│   └── Dashboard_Snapshot.png
+├── dashboard/
+│   └── Dashboard.png
 │
 └── analysis/
     ├── data_cleaning_steps.md
