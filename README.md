@@ -43,23 +43,25 @@ The final output is a **Power BI dashboard** that highlights campaign performanc
 ---
 
 ## 📂 Repository Structure
-
+```plaintext
 FUTURE_DS_02/
 │
 ├── README.md
+│
 ├── dataset/
-│ └── cleaned_facebook_ads.csv
+│   └── cleaned_facebook_ads.csv
+│
 ├── reports/
-│ ├── Task2_Report.pdf
-│ └── Dashboard_Snapshot.png
-├── analysis/
-│ ├── data_cleaning_steps.md
-│ ├── dax_measures.md
-│ └── insights_summary.md
-└── assets/
-└── task_banner.png
+│   ├── Task2_Report.pdf
+│   └── Dashboard_Snapshot.png
+│
+└── analysis/
+    ├── data_cleaning_steps.md
+    ├── dax_measures.md
+    └── insights_summary.md
 
----
+
+```
 
 ## 🔍 Dataset Description
 The dataset contains the following columns:
