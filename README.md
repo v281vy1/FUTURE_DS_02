@@ -48,7 +48,6 @@ FUTURE_DS_02/
 ├── README.md
 │
 ├── dataset/
-│   └── data.csv
 │   └── cleaned_facebook_ads.csv
 │
 ├── dashboard/
